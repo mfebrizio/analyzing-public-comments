@@ -12,3 +12,4 @@ Regulations.gov offers all its public data in machine readable format via an [AP
 For detailed description of Regulations.gov API, visit: https://regulationsgov.github.io/developers/.
 
 ### How to request a API key
+<a href="https://www.regulations.gov/" target="_blank">Regulations.gov</a>
