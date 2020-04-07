@@ -7,9 +7,9 @@ In this research, we (the RSC research team) developed Python code to retrieve, 
 ## Regulations.gov API
 [Regulations.gov](https://www.regulations.gov/) is a central portal for public users to access U.S. federal regulatory materials and submit comments on proposed regulations. It was launched by the [eRulemaking Program](https://www.regulations.gov/aboutProgram) in January 2003. Today, nearly 300 federal agencies post an average of 8,000 regulations per year, among which the majority receive comments and share them on Regulations.gov, while others accept and post comments via other online platforms (e.g., Surface Transportation Board).
 
-Regulations.gov offers all its public data in machine readable format via an [API (Application Programming Interface)](https://www.regulations.gov/apiOverview), which allows users to search and retrieve data on public submissions and other regulatory materials in a machine readable format. All the content that can be obtained using the regular search function on Regulations.gov is available in json or xml format if an equivalent [API query](https://regulationsgov.github.io/developers/console/) is used. This includes the full text of comments and rules, as well as their metadata such as agency name, commenter name, publication date, etc.
+Regulations.gov offers all its public data in machine readable format via an [API (Application Programming Interface)](https://www.regulations.gov/apiOverview), which allows users to search and retrieve data on public submissions and other regulatory materials in an automated way. All the content that can be obtained using the regular search function on Regulations.gov is available in json or xml format if an equivalent [API query](https://regulationsgov.github.io/developers/console/) is used. This includes the full text of comments and rules, as well as their metadata such as agency name, commenter name, publication date, etc.
 
-For detailed description of Regulations.gov API, visit: https://regulationsgov.github.io/developers/.
+For a detailed description of Regulations.gov API, visit: https://regulationsgov.github.io/developers/.
 
 ### How to request a API key
-<a href="https://www.regulations.gov/" target="_blank">Regulations.gov</a>
+The first thing you will need to use Regulations.gov API is a unique API key for yourself or your organization. You can contact the [Regulations.gov Help Desk](regulations@erulemakinghelpdesk.com) to request an API key, following the instruction on [this page](https://regulationsgov.github.io/developers/).
