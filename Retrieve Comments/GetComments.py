@@ -18,7 +18,7 @@ docket = pd.read_csv(docketFile,skiprows=4)
 docket=docket[docket['Document Type']=='PUBLIC SUBMISSIONS']
 print(docket.info())
 
-APIkey="XkS4cyfqMZf2E9mIgYkfI1E7AYa2c0eC02rUTib7"   # Add your API key here
+APIkey="[YOUR API KEY]"   # Add your API key here
 
 # Retrieve text comments
 baseURL = "https://api.data.gov:443/regulations/v3/document.json?api_key="+APIkey+"&documentId="
